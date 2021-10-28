@@ -23,7 +23,7 @@ Professional experience with the technologies listed in the **toolbox** below.
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazhariqbal49&hide=java,html,css&theme=radical)](https://github.com/mazhariqbal49/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazhariqbal49&theme=radical)](https://github.com/mazhariqbal49/github-readme-stats)
 
 <a href="https://app.daily.dev/hillyhigher"><img src="https://api.daily.dev/devcards/f6162e33fc49472a9cf04fbd48b5d0ff.png?r=kat" width="400" alt="Mazhar Iqbal's Dev Card"/></a>
 
