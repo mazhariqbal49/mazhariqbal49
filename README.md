@@ -24,6 +24,8 @@ Professional experience with the technologies listed in the **toolbox** below.
 ## &#x1f4c8; My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazhariqbal49&theme=radical)](https://github.com/mazhariqbal49/github-readme-stats)
+
+
 [![Mazhar Iqbal's GitHub stats](https://github-readme-stats.vercel.app/api?username=mazhariqbal49&theme=radical)](https://github.com/mazhariqbal49/github-readme-stats)
 
 
