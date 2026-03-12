@@ -109,7 +109,6 @@ const MazharIqbal = {
 | **Senior Software Engineer** | H2Wellness | Oct 2013 – May 2015 |
 | **Senior Software Engineer / Team Lead** | PureLogics | 2012 – 2013 |
 | **Senior Software Engineer / Head of Development Department** | Sabri Technologies | 2009 – 2012 |
-| **Senior Software Engineer** | Aptlogix | 2008 – 2009 |
 
 ---
 
@@ -121,11 +120,11 @@ const MazharIqbal = {
 |---|---------|-------------|------------|
 | 01 | 📊 **SCEAI Management System (Qatar)** | Executive analytics dashboard for Qatar's national economic council with economic indicators, sector KPIs, and interactive visualizations | `ReactTS` `React Query` `Ant Design` `eCharts` |
 | 02 | 🏋️ **AllUp – Gym Automation Platform (UAE)** | Multi-tenant gym management system handling memberships, leads, classes, POS systems, and reporting dashboards | `ReactJS` `NodeJS` `GraphQL` `Prisma` `PostgreSQL` |
-| 03 | ☕ **CofeApp Admin Portal** | Coffee delivery platform with integrated delivery APIs (Deliverect, Salasa, ShipEdge) | `ReactJS` `NodeJS` `PostgreSQL` |
-| 04 | 🛒 **Bykea Khareed Lao PWA** | Progressive Web Application for ordering groceries with real-time delivery tracking and rider communication | `Angular TypeScript` `Bootstrap` `Google Maps` |
-| 05 | 📦 **Inventory Master** | Cross-platform desktop application for inventory management with real-time stock monitoring and reporting | `ElectronJS` `JavaScript` `ChartJS` |
-| 06 | 💊 **Prescription Delivery Application** | Prescription delivery scheduling system with real-time delivery lifecycle tracking | `ReactJS` `NodeJS` `AWS Lambda` `DynamoDB` |
-| 07 | 🏥 **TeleHealth Care Platform** | Virtual healthcare platform enabling doctors and patients to connect through video consultations | `ReactJS` `Twilio Video` |
+| 03 | ☕ **CofeApp Admin Portal (UAE)** | Coffee delivery platform with integrated delivery APIs (Deliverect, Salasa, ShipEdge) | `ReactJS` `NodeJS` `PostgreSQL` |
+| 04 | 🛒 **Bykea Khareed Lao PWA (PK)** | Progressive Web Application for ordering groceries with real-time delivery tracking and rider communication | `Angular TypeScript` `Bootstrap` `Google Maps` |
+| 05 | 📦 **Multi-Tenant Ecommerce Solution (USA)** | A multi-tenant e-commerce SaaS platform, streamlining warehouse inventory management for diverse clientele. Customers gained access to an efficient, user-friendly system, eliminating the complexities of traditional inventory control. | `ReactJS`, `Metronic Theme`, `React Query`, `Ant Design`, `ApexCharts` |
+| 06 | 💊 **Prescription Delivery Application (USA)** | Prescription delivery scheduling system with real-time delivery lifecycle tracking | `ReactJS` `NodeJS` `AWS Lambda` `DynamoDB` |
+| 07 | 🏥 **TeleHealth Care Platform (USA)** | Virtual healthcare platform enabling doctors and patients to connect through video consultations | `ReactJS` `Twilio Video` |
 
 </div>
 
