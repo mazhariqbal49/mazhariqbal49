@@ -19,6 +19,8 @@
 
 ## 👨‍💻 About Me
 
+<img align="right" alt="Coding GIF" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
 ```javascript
 const MazharIqbal = {
   role:        "Full Stack Developer",
@@ -32,10 +34,11 @@ const MazharIqbal = {
   ],
 
   techStack: {
-    frontend:   ["ReactJS", "Angular", "VueJS", "NextJS", "Redux", "React Query", "Ant Design", "Tailwind CSS", "Material UI", "Bootstrap", "ShadCN", "GSAP"],
+    frontend:   ["ReactJS", "Angular", "VueJS", "NextJS", "Redux", "React Query"],
+    uiLibraries:   ["Ant Design", "Tailwind CSS", "Material UI", "Bootstrap", "ShadCN", "GSAP"],
     backend:    ["NodeJS (ExpressJS)", "Laravel", "CakePHP", "CodeIgniter", "GraphQL APIs"],
     database:   ["PostgreSQL", "MySQL", "MSSQL Server", "MongoDB"],
-    cloud:      ["AWS (EC2, S3, IAM, SNS, Cognito)", "Azure CI/CD", "GitHub", "GitLab", "CI/CD Pipelines"],
+    cloud:      ["AWS (EC2, S3, IAM, SNS, Cognito, CI/CD)", "Azure CI/CD", "GitHub", "GitLab"],
     tools:      ["Jira", "Azure Boards", "ClickUp", "Linear", "MS Project", "Assembla"],
     other:      ["NestJS", "React Native", "FabricJS"], // learning 🌱
   },
