@@ -39,7 +39,7 @@ const MazharIqbal = {
     database:   ["PostgreSQL", "MySQL", "MSSQL Server", "MongoDB"],
     cloud:      ["AWS (EC2, S3, IAM, SNS, Cognito)", "Azure CI/CD", "GitHub", "GitLab", "CI/CD Pipelines"],
     tools:      ["Jira", "Azure Boards", "ClickUp", "Linear", "MS Project", "Assembla"],
-    other:      ["ElectronJS", "React Native", "Ionic Framework", "FabricJS"],
+    other:      ["NestJS", "React Native", "FabricJS"], // learning 🌱
   },
 
   passions: "Creating user-friendly solutions & addressing real-world challenges",
