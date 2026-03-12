@@ -32,13 +32,13 @@ const MazharIqbal = {
   ],
 
   techStack: {
-    frontend:   ["ReactJS", "Angular", "VueJS", "NextJS", "Redux", "React Query"],
-    uiLibraries:   ["Ant Design", "Tailwind CSS", "Material UI", "Bootstrap", "ShadCN", "GSAP"],
-    backend:    ["NodeJS (ExpressJS)", "Laravel", "CakePHP", "CodeIgniter", "GraphQL APIs"],
-    database:   ["PostgreSQL", "MySQL", "MSSQL Server", "MongoDB"],
-    cloud:      ["AWS (EC2, S3, IAM, SNS, Cognito, CI/CD)", "Azure CI/CD", "GitHub", "GitLab"],
-    tools:      ["Jira", "Azure Boards", "ClickUp", "Linear", "MS Project", "Assembla"],
-    other:      ["NestJS", "React Native", "FabricJS"], // learning 🌱
+    frontend:     ["ReactJS", "Angular", "VueJS", "NextJS", "Redux", "React Query"],
+    uiLibraries:  ["Ant Design", "Tailwind CSS", "Material UI", "Bootstrap", "ShadCN", "GSAP"],
+    backend:      ["NodeJS (ExpressJS)", "Laravel", "CakePHP", "CodeIgniter", "GraphQL APIs"],
+    database:     ["PostgreSQL", "MySQL", "MSSQL Server", "MongoDB"],
+    cloud:        ["AWS (EC2, S3, IAM, SNS, Cognito, CI/CD)", "Azure CI/CD", "GitHub", "GitLab"],
+    tools:        ["Jira", "Azure Boards", "ClickUp", "Linear", "MS Project", "Assembla"],
+    other:        ["NestJS", "React Native", "FabricJS"], // learning 🌱
   },
 
   passions: "Creating user-friendly solutions & addressing real-world challenges",
