@@ -1,43 +1,168 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I am Mazhar Iqbal! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<div align="center">
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=700&lines=Hey+There!+I'm+Mazhar+Iqbal+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;14%2B+Years+of+Experience+%E2%9A%9B%EF%B8%8F;JavaScript+%26+PHP+Specialist+%F0%9F%8C%B1;Building+Scalable+Web+%26+Mobile+Apps+%F0%9F%8E%A8)](https://readme-typing-svg.herokuapp.com)
 
+<br/>
 
-[![Twitter Badge](https://img.shields.io/badge/-@mazhariqbal-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mazhariqbal)](https://twitter.com/mazhariqbal) [![Linkedin Badge](https://img.shields.io/badge/-mazhariqbal49-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://pk.linkedin.com/in/mazhariqbal49/)](https://pk.linkedin.com/in/mazhariqbal49/) [![Gmail Badge](https://img.shields.io/badge/-mazhariqbal-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hillyhigher@gmail.com)](mailto:hillyhigher@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mazhariqbal49/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mazhariqbal49)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazhariqbal49@hotmail.com)
 
-Senior technology consultant with proven experience of executing complex web and mobile projects. Worked on diverse front-end and back-end toolsets while maintaining excellent problem-solving skills. A full stack developer on JavaScript and PHP for more than 13 years
+<br/>
 
-Professional experience with the technologies listed in the **toolbox** below.
+![Profile Views](https://komarev.com/ghpvc/?username=mazhariqbal49&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/mazhariqbal49?style=for-the-badge&color=blue&label=Followers)
+
+</div>
+
 ---
 
-🧰 Toolbox
+## 👨‍💻 About Me
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="TailwindCSS" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="60" height="60"/> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="50" height="50"/>
+<img align="right" alt="Coding GIF" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mazhariqbal49)
+Experienced **Full Stack Developer** with over **14 years** of expertise in building innovative web and mobile applications. Skilled in a wide range of technologies with a focus on **JavaScript** and **PHP**. Proven ability to lead complex projects, manage teams, and deliver high-quality, scalable solutions. Strong problem-solving skills, effective collaboration with cross-functional teams, and a commitment to staying updated with the latest industry trends.
 
+```javascript
+const MazharIqbal = {
+  role:        "Full Stack Developer",
+  experience:  "14+ Years",
+  specialization: "Complex web & mobile project delivery",
 
-<!--
-![Mazhar's github stats](https://github-readme-stats.vercel.app/api?username=mazhariqbal49&hide=["issues"]&show_icons=true)
--->
+  currentFocus: [
+    "SPA Development & Team Leadership",
+    "React, Angular, Vue.js & Node.js",
+    "Scalable, user-friendly solutions",
+  ],
 
-<!--
-**mazhariqbal49/mazhariqbal49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  techStack: {
+    frontend:   ["React", "Angular", "Vue.js", "Next.js", "TypeScript", "JavaScript"],
+    backend:    ["Node.js", "ExpressJS", "NestJS", "Laravel", "CodeIgniter"],
+    database:   ["MySQL", "PostgreSQL", "GraphQL", "MSSQL Server", "MongoDB"],
+    cloud:      ["AWS (CI/CD, EC2, S3, Cognito)", "Azure (CI/CD)"],
+    tools:      ["JIRA", "Git", "Agile", "Scrum"],
+  },
 
-Here are some ideas to get you started:
+  passions: "Creating user-friendly solutions & addressing real-world challenges",
+};
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚛️ Front-End Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+### 🎨 UI Libraries & Styling
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
+
+### ⚙️ Back-End Frameworks
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### 🔧 Tools & Methodologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+</div>
+
+---
+
+## 💼 Professional Experience
+
+| Role | Company | Duration |
+|------|---------|----------|
+| **Full Stack JavaScript Lead** | Allied Consultants | June 2019 - Present |
+| **IT Team Lead** | iTitans Tech | June 2019 - August 2024 |
+| **Staff Software Engineer** | NorthBay Solutions | June 2018 - May 2019 |
+| **Principal Software Engineer** | NorthBay Solutions | June 2017 - June 2018 |
+
+**Key Responsibilities:** Leading SPA development, managing projects with JIRA, conducting code reviews, coordinating with UI and backend teams, and overseeing project delivery.
+
+---
+
+## 🚀 Recent Projects
+
+<div align="center">
+
+| # | Project | Description | Tech Stack |
+|---|---------|-------------|------------|
+| 01 | 🏋️ **AllUp** | Gym automation application | `ReactJS` `NodeJS` |
+| 02 | ☕ **CofeApp** | Admin portal for coffee delivery services with API integrations | `React` `Node.js` |
+| 03 | 🛒 **Multi-Tenant Ecommerce** | End-to-end ecommerce platform development | `Full Stack` |
+| 04 | 🏥 **TeleHealth Care** | Virtual healthcare services platform with user accessibility focus | `Web/Mobile` |
+| 05 | 📊 **EVisions Cadmus** | Reporting tool for non-technical users in educational institutions | `Full Stack` |
+
+</div>
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Period |
+|--------|-------------|--------|
+| **MS Computer Science** | University of the Punjab (PUCIT), Lahore | 2004 - 2006 |
+| **BS Computer Science** | Cybernetics College, Lahore / Allama Iqbal Open University, Islamabad | 2000 - 2003 |
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mazhariqbal49&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazhariqbal49&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=mazhariqbal49&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</div>
+
+---
+
+<div align="center">
+
+*💻 "Code with passion, build with purpose." ✨*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+</div>
