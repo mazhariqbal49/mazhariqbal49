@@ -21,8 +21,6 @@
 
 <img align="right" alt="Coding GIF" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-Experienced **Full Stack Developer** with over **14 years** of expertise in building innovative web and mobile applications. Skilled in a wide range of technologies with a focus on **JavaScript** and **PHP**. Proven ability to lead complex projects, manage teams, and deliver high-quality, scalable solutions. Strong problem-solving skills, effective collaboration with cross-functional teams, and a commitment to staying updated with the latest industry trends.
-
 ```javascript
 const MazharIqbal = {
   role:        "Full Stack Developer",
@@ -36,11 +34,12 @@ const MazharIqbal = {
   ],
 
   techStack: {
-    frontend:   ["React", "Angular", "Vue.js", "Next.js", "TypeScript", "JavaScript"],
-    backend:    ["Node.js", "ExpressJS", "NestJS", "Laravel", "CodeIgniter"],
-    database:   ["MySQL", "PostgreSQL", "GraphQL", "MSSQL Server", "MongoDB"],
-    cloud:      ["AWS (CI/CD, EC2, S3, Cognito)", "Azure (CI/CD)"],
-    tools:      ["JIRA", "Git", "Agile", "Scrum"],
+    frontend:   ["ReactJS", "Angular", "VueJS", "NextJS", "Redux", "React Query", "Ant Design", "Tailwind CSS", "Material UI", "Bootstrap", "ShadCN", "GSAP"],
+    backend:    ["NodeJS (ExpressJS)", "Laravel", "CakePHP", "CodeIgniter", "GraphQL APIs"],
+    database:   ["PostgreSQL", "MySQL", "MSSQL Server", "MongoDB"],
+    cloud:      ["AWS (EC2, S3, IAM, SNS, Cognito)", "Azure CI/CD", "GitHub", "GitLab", "CI/CD Pipelines"],
+    tools:      ["Jira", "Azure Boards", "ClickUp", "Linear", "MS Project", "Assembla"],
+    other:      ["ElectronJS", "React Native", "Ionic Framework", "FabricJS"],
   },
 
   passions: "Creating user-friendly solutions & addressing real-world challenges",
@@ -105,12 +104,12 @@ const MazharIqbal = {
 
 | Role | Company | Duration |
 |------|---------|----------|
-| **Full Stack JavaScript Lead** | Allied Consultants | June 2019 - Present |
-| **IT Team Lead** | iTitans Tech | June 2019 - August 2024 |
-| **Staff Software Engineer** | NorthBay Solutions | June 2018 - May 2019 |
-| **Principal Software Engineer** | NorthBay Solutions | June 2017 - June 2018 |
-
-**Key Responsibilities:** Leading SPA development, managing projects with JIRA, conducting code reviews, coordinating with UI and backend teams, and overseeing project delivery.
+| **Full Stack JavaScript Lead** | Allied Consultants | June 2019 – Present |
+| **Staff Software Engineer / Principal Software Engineer / Frontend Team Lead** | NorthBay Solutions Pakistan | June 2015 – May 2019 |
+| **Senior Software Engineer** | H2Wellness | Oct 2013 – May 2015 |
+| **Senior Software Engineer / Team Lead** | PureLogics | 2012 – 2013 |
+| **Senior Software Engineer / Head of Development Department** | Sabri Technologies | 2009 – 2012 |
+| **Senior Software Engineer** | Aptlogix | 2008 – 2009 |
 
 ---
 
@@ -120,11 +119,13 @@ const MazharIqbal = {
 
 | # | Project | Description | Tech Stack |
 |---|---------|-------------|------------|
-| 01 | 🏋️ **AllUp** | Gym automation application | `ReactJS` `NodeJS` |
-| 02 | ☕ **CofeApp** | Admin portal for coffee delivery services with API integrations | `React` `Node.js` |
-| 03 | 🛒 **Multi-Tenant Ecommerce** | End-to-end ecommerce platform development | `Full Stack` |
-| 04 | 🏥 **TeleHealth Care** | Virtual healthcare services platform with user accessibility focus | `Web/Mobile` |
-| 05 | 📊 **EVisions Cadmus** | Reporting tool for non-technical users in educational institutions | `Full Stack` |
+| 01 | 📊 **SCEAI Management System (Qatar)** | Executive analytics dashboard for Qatar's national economic council with economic indicators, sector KPIs, and interactive visualizations | `ReactTS` `React Query` `Ant Design` `eCharts` |
+| 02 | 🏋️ **AllUp – Gym Automation Platform (UAE)** | Multi-tenant gym management system handling memberships, leads, classes, POS systems, and reporting dashboards | `ReactJS` `NodeJS` `GraphQL` `Prisma` `PostgreSQL` |
+| 03 | ☕ **CofeApp Admin Portal** | Coffee delivery platform with integrated delivery APIs (Deliverect, Salasa, ShipEdge) | `ReactJS` `NodeJS` `PostgreSQL` |
+| 04 | 🛒 **Bykea Khareed Lao PWA** | Progressive Web Application for ordering groceries with real-time delivery tracking and rider communication | `Angular TypeScript` `Bootstrap` `Google Maps` |
+| 05 | 📦 **Inventory Master** | Cross-platform desktop application for inventory management with real-time stock monitoring and reporting | `ElectronJS` `JavaScript` `ChartJS` |
+| 06 | 💊 **Prescription Delivery Application** | Prescription delivery scheduling system with real-time delivery lifecycle tracking | `ReactJS` `NodeJS` `AWS Lambda` `DynamoDB` |
+| 07 | 🏥 **TeleHealth Care Platform** | Virtual healthcare platform enabling doctors and patients to connect through video consultations | `ReactJS` `Twilio Video` |
 
 </div>
 
