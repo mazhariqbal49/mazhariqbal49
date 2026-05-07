@@ -131,10 +131,10 @@ const MazharIqbal = {
 
 ## 🎓 Education
 
-| Degree | Institution | Period |
-|--------|-------------|--------|
-| **MS Computer Science** | University of the Punjab (PUCIT), Lahore | 2004 - 2006 |
-| **BS Computer Science** | Cybernetics College, Lahore / Allama Iqbal Open University, Islamabad | 2000 - 2003 |
+| Degree | Institution |
+|--------|-------------|
+| **MS Computer Science** | University of the Punjab (PUCIT), Lahore |
+| **BS Computer Science** | Cybernetics College, Lahore / Allama Iqbal Open University, Islamabad |
 
 ---
 
