@@ -22,7 +22,7 @@
 ```javascript
 const MazharIqbal = {
   role:        "Full Stack Developer",
-  experience:  "14+ Years",
+  experience:  "12+ Years",
   specialization: "Complex web & mobile project delivery",
 
   currentFocus: [
